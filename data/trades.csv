@@ -1,0 +1,121 @@
+trade_id,trade_date,commodity,counterparty,volume_tons,price_usd_per_ton,currency,incoterm,port_loading,port_discharge
+T0001,2025-03-01,LNG,Blue Ocean Commodities,15000,517.44,USD,CFR,Paranagua,Antwerp
+T0002,2025-10-09,Crude Oil,Atlantic Trading,25000,579.02,USD,FOB,Santos,Rotterdam
+T0003,2025-09-18,Diesel,Andes Resources,40000,792.73,USD,CFR,Paranagua,Houston
+T0004,2025-08-05,Corn,Harbor Freight Trading,40000,205.38,USD,FOB,Houston,Rotterdam
+T0005,2025-08-07,LNG,Atlantic Trading,10000,545.69,USD,FOB,Paranagua,Singapore
+T0006,2025-02-21,Soybeans,Harbor Freight Trading,15000,420.3,USD,FOB,Singapore,Shanghai
+T0007,2025-08-26,LNG,Global Agro Ltd,25000,563.25,USD,CFR,Santos,Hamburg
+T0008,2025-07-07,Corn,Andes Resources,55000,217.66,USD,FOB,Santos,Rotterdam
+T0009,2025-02-12,Gasoline,Northridge Energy,5000,776.79,USD,CFR,Rotterdam,Shanghai
+T0010,2025-03-27,Gasoline,Andes Resources,10000,719.73,USD,CFR,Ras Tanura,Singapore
+T0011,2025-02-08,LNG,Blue Ocean Commodities,10000,569.78,USD,CIF,Singapore,Antwerp
+T0012,2025-05-21,Soybeans,Blue Ocean Commodities,55000,463.68,USD,CFR,Ras Tanura,Hamburg
+T0013,2025-01-31,Gasoline,Global Agro Ltd,5000,703.14,USD,FOB,Houston,Shanghai
+T0014,2025-10-20,Diesel,Northridge Energy,15000,826.97,USD,CIF,Paranagua,Houston
+T0015,2025-08-25,LNG,Mercury Supply,10000,528.0,USD,CFR,Paranagua,Houston
+T0016,2025-10-29,Gasoline,Blue Ocean Commodities,40000,726.58,USD,FOB,Rotterdam,Shanghai
+T0017,2025-09-12,Corn,Andes Resources,5000,200.93,USD,FOB,Santos,Antwerp
+T0018,2025-08-07,LNG,Northridge Energy,25000,568.64,USD,CFR,Rotterdam,Houston
+T0019,2025-10-13,Gasoline,Atlantic Trading,5000,777.43,USD,CFR,Ras Tanura,Houston
+T0020,2025-05-19,Corn,Northridge Energy,15000,224.24,USD,FOB,Santos,Singapore
+T0021,2025-01-04,Soybeans,Harbor Freight Trading,55000,461.22,USD,FOB,Houston,Hamburg
+T0022,2025-02-26,Corn,Mercury Supply,15000,227.75,USD,FOB,Ras Tanura,Hamburg
+T0023,2025-07-13,Diesel,Mercury Supply,40000,812.76,USD,CIF,Singapore,Rotterdam
+T0024,2025-01-12,Soybeans,Atlantic Trading,15000,403.3,USD,FOB,Houston,Antwerp
+T0025,2025-02-12,Corn,Harbor Freight Trading,25000,200.75,USD,FOB,Santos,Hamburg
+T0026,2025-09-03,Diesel,Harbor Freight Trading,10000,835.77,USD,CFR,Houston,Hamburg
+T0027,2025-04-21,Soybeans,Andes Resources,55000,459.51,USD,CIF,Ras Tanura,Antwerp
+T0028,2025-07-13,Soybeans,Blue Ocean Commodities,40000,425.74,USD,FOB,Rotterdam,Antwerp
+T0029,2025-06-25,Crude Oil,Blue Ocean Commodities,40000,572.49,USD,FOB,Paranagua,Hamburg
+T0030,2025-11-22,Crude Oil,Atlantic Trading,5000,576.24,USD,CFR,Santos,Singapore
+T0031,2025-05-25,Diesel,Andes Resources,10000,801.09,USD,CFR,Singapore,Antwerp
+T0032,2025-09-02,Corn,Atlantic Trading,25000,206.16,USD,FOB,Rotterdam,Singapore
+T0033,2025-08-11,LNG,Andes Resources,25000,546.95,USD,CFR,Rotterdam,Antwerp
+T0034,2025-02-22,LNG,Blue Ocean Commodities,55000,520.63,USD,FOB,Houston,Rotterdam
+T0035,2025-10-04,Diesel,Northridge Energy,25000,773.59,USD,FOB,Paranagua,Singapore
+T0036,2025-08-17,Crude Oil,Andes Resources,40000,650.56,USD,CFR,Santos,Rotterdam
+T0037,2025-02-19,Crude Oil,Northridge Energy,10000,662.3,USD,CIF,Paranagua,Shanghai
+T0038,2025-07-27,Diesel,Northridge Energy,10000,830.22,USD,CIF,Rotterdam,Antwerp
+T0039,2025-05-29,Soybeans,Blue Ocean Commodities,55000,424.7,USD,FOB,Singapore,Hamburg
+T0040,2025-04-24,Gasoline,Atlantic Trading,40000,790.12,USD,CFR,Ras Tanura,Hamburg
+T0041,2025-02-01,Gasoline,Blue Ocean Commodities,25000,682.1,USD,FOB,Singapore,Houston
+T0042,2025-02-13,Corn,Andes Resources,5000,227.09,USD,FOB,Singapore,Rotterdam
+T0043,2025-03-05,Soybeans,Mercury Supply,40000,460.38,USD,FOB,Paranagua,Hamburg
+T0044,2025-02-13,Corn,Global Agro Ltd,40000,212.22,USD,CIF,Singapore,Houston
+T0045,2025-06-12,Diesel,Andes Resources,25000,747.39,USD,CIF,Paranagua,Houston
+T0046,2025-06-13,Soybeans,Mercury Supply,5000,459.52,USD,CFR,Santos,Shanghai
+T0047,2025-02-09,Crude Oil,Global Agro Ltd,40000,623.73,USD,FOB,Houston,Antwerp
+T0048,2025-07-11,Diesel,Mercury Supply,25000,753.17,USD,CFR,Singapore,Shanghai
+T0049,2025-01-07,Corn,Blue Ocean Commodities,40000,220.77,USD,CIF,Houston,Rotterdam
+T0050,2025-02-26,Crude Oil,Mercury Supply,10000,644.05,USD,FOB,Houston,Singapore
+T0051,2025-06-27,LNG,Northridge Energy,55000,533.44,USD,CIF,Houston,Hamburg
+T0052,2025-02-19,Crude Oil,Global Agro Ltd,15000,633.32,USD,FOB,Santos,Rotterdam
+T0053,2025-05-17,LNG,Mercury Supply,25000,529.68,USD,FOB,Singapore,Hamburg
+T0054,2025-02-10,Crude Oil,Atlantic Trading,55000,664.15,USD,CIF,Paranagua,Hamburg
+T0055,2025-10-12,Corn,Global Agro Ltd,10000,202.89,USD,FOB,Santos,Singapore
+T0056,2025-04-20,Gasoline,Harbor Freight Trading,55000,756.41,USD,CFR,Santos,Singapore
+T0057,2025-11-16,Soybeans,Northridge Energy,10000,447.16,USD,FOB,Paranagua,Antwerp
+T0058,2025-06-22,Diesel,Harbor Freight Trading,25000,815.24,USD,FOB,Ras Tanura,Houston
+T0059,2025-03-25,Gasoline,Harbor Freight Trading,5000,768.8,USD,CIF,Rotterdam,Antwerp
+T0060,2025-04-15,Diesel,Harbor Freight Trading,25000,819.51,USD,FOB,Houston,Singapore
+T0061,2025-01-15,Diesel,Harbor Freight Trading,25000,799.97,USD,FOB,Houston,Singapore
+T0062,2025-07-01,Gasoline,Global Agro Ltd,25000,751.64,USD,FOB,Ras Tanura,Hamburg
+T0063,2025-05-16,Crude Oil,Mercury Supply,15000,588.11,USD,CIF,Santos,Rotterdam
+T0064,2025-06-12,Gasoline,Mercury Supply,40000,727.52,USD,FOB,Santos,Shanghai
+T0065,2025-01-25,Gasoline,Andes Resources,5000,759.55,USD,CFR,Singapore,Houston
+T0066,2025-04-13,LNG,Mercury Supply,5000,547.83,USD,CIF,Ras Tanura,Singapore
+T0067,2025-03-07,LNG,Andes Resources,15000,579.69,USD,CIF,Singapore,Shanghai
+T0068,2025-07-28,Gasoline,Northridge Energy,40000,758.19,USD,CFR,Paranagua,Antwerp
+T0069,2025-04-02,Soybeans,Harbor Freight Trading,15000,437.95,USD,FOB,Rotterdam,Houston
+T0070,2025-05-29,Gasoline,Northridge Energy,40000,700.92,USD,CIF,Singapore,Shanghai
+T0071,2025-04-22,Soybeans,Atlantic Trading,55000,430.77,USD,CIF,Paranagua,Houston
+T0072,2025-11-23,Corn,Global Agro Ltd,5000,219.1,USD,FOB,Paranagua,Houston
+T0073,2025-03-19,Diesel,Harbor Freight Trading,10000,720.65,USD,FOB,Rotterdam,Houston
+T0074,2025-08-03,Soybeans,Andes Resources,40000,456.57,USD,CIF,Paranagua,Houston
+T0075,2025-07-26,Soybeans,Harbor Freight Trading,55000,412.39,USD,FOB,Ras Tanura,Rotterdam
+T0076,2025-04-25,Soybeans,Atlantic Trading,55000,407.7,USD,CFR,Singapore,Hamburg
+T0077,2025-03-06,Diesel,Mercury Supply,25000,774.57,USD,CFR,Ras Tanura,Hamburg
+T0078,2025-08-17,Gasoline,Harbor Freight Trading,55000,748.25,USD,CFR,Singapore,Hamburg
+T0079,2025-03-25,Soybeans,Harbor Freight Trading,25000,446.76,USD,FOB,Rotterdam,Shanghai
+T0080,2025-05-24,LNG,Global Agro Ltd,40000,583.82,USD,CIF,Rotterdam,Singapore
+T0081,2025-05-29,Crude Oil,Atlantic Trading,15000,593.66,USD,FOB,Houston,Hamburg
+T0082,2025-05-01,Diesel,Atlantic Trading,10000,765.4,USD,CIF,Ras Tanura,Antwerp
+T0083,2025-06-21,Soybeans,Harbor Freight Trading,25000,432.93,USD,CIF,Santos,Antwerp
+T0084,2025-10-29,Soybeans,Northridge Energy,5000,460.69,USD,FOB,Singapore,Hamburg
+T0085,2025-06-04,Gasoline,Harbor Freight Trading,25000,764.81,USD,CFR,Singapore,Houston
+T0086,2025-09-09,Diesel,Northridge Energy,25000,744.98,USD,CIF,Rotterdam,Antwerp
+T0087,2025-07-29,LNG,Mercury Supply,25000,580.09,USD,FOB,Paranagua,Hamburg
+T0088,2025-11-02,Soybeans,Northridge Energy,5000,434.43,USD,FOB,Santos,Houston
+T0089,2025-04-06,Soybeans,Northridge Energy,25000,399.06,USD,CIF,Houston,Antwerp
+T0090,2025-07-16,Gasoline,Northridge Energy,25000,708.92,USD,FOB,Houston,Rotterdam
+T0091,2025-10-06,LNG,Atlantic Trading,15000,519.87,USD,CFR,Paranagua,Houston
+T0092,2025-01-18,Crude Oil,Blue Ocean Commodities,10000,664.6,USD,FOB,Santos,Hamburg
+T0093,2025-09-02,Diesel,Andes Resources,40000,801.15,USD,CIF,Paranagua,Shanghai
+T0094,2025-03-29,Gasoline,Harbor Freight Trading,55000,747.45,USD,FOB,Ras Tanura,Rotterdam
+T0095,2025-02-27,Gasoline,Northridge Energy,15000,744.25,USD,CFR,Singapore,Hamburg
+T0096,2025-02-10,Diesel,Andes Resources,55000,791.49,USD,CIF,Paranagua,Rotterdam
+T0097,2025-11-06,LNG,Mercury Supply,40000,587.38,USD,CIF,Santos,Singapore
+T0098,2025-07-11,LNG,Harbor Freight Trading,55000,521.38,USD,CIF,Houston,Rotterdam
+T0099,2025-02-26,Soybeans,Andes Resources,15000,425.43,USD,FOB,Ras Tanura,Shanghai
+T0100,2025-04-03,Soybeans,Harbor Freight Trading,55000,446.09,USD,CFR,Houston,Hamburg
+T0101,2025-08-29,Soybeans,Global Agro Ltd,55000,425.57,USD,FOB,Singapore,Shanghai
+T0102,2025-05-25,Crude Oil,Mercury Supply,10000,657.86,USD,CFR,Rotterdam,Houston
+T0103,2025-06-24,Soybeans,Blue Ocean Commodities,15000,397.57,USD,CIF,Paranagua,Shanghai
+T0104,2025-06-26,Gasoline,Mercury Supply,40000,709.09,USD,FOB,Ras Tanura,Singapore
+T0105,2025-04-10,Corn,Mercury Supply,55000,200.75,USD,FOB,Rotterdam,Hamburg
+T0106,2025-09-03,LNG,Atlantic Trading,25000,573.07,USD,CIF,Rotterdam,Antwerp
+T0107,2025-07-29,Diesel,Global Agro Ltd,15000,803.94,USD,CIF,Ras Tanura,Hamburg
+T0108,2025-10-01,Corn,Global Agro Ltd,55000,209.63,USD,CFR,Singapore,Shanghai
+T0109,2025-05-21,Soybeans,Blue Ocean Commodities,10000,416.7,USD,CIF,Santos,Houston
+T0110,2025-10-04,Crude Oil,Blue Ocean Commodities,55000,664.73,USD,CFR,Paranagua,Antwerp
+T0111,2025-05-24,Soybeans,Atlantic Trading,40000,445.45,USD,FOB,Singapore,Shanghai
+T0112,2025-04-29,Gasoline,Mercury Supply,15000,718.64,USD,FOB,Santos,Houston
+T0113,2025-01-26,Gasoline,Andes Resources,40000,790.78,USD,CIF,Houston,Antwerp
+T0114,2025-01-09,Crude Oil,Global Agro Ltd,25000,627.35,USD,FOB,Rotterdam,Hamburg
+T0115,2025-05-12,Crude Oil,Northridge Energy,25000,663.75,USD,CIF,Santos,Rotterdam
+T0116,2025-10-25,Crude Oil,Harbor Freight Trading,5000,632.84,USD,CFR,Paranagua,Antwerp
+T0117,2025-02-15,Gasoline,Mercury Supply,5000,793.08,USD,CFR,Singapore,Hamburg
+T0118,2025-04-28,Corn,Global Agro Ltd,25000,224.48,USD,CFR,Rotterdam,Hamburg
+T0119,2025-06-08,Soybeans,Harbor Freight Trading,5000,434.72,USD,FOB,Singapore,Rotterdam
+T0120,2025-04-21,LNG,Blue Ocean Commodities,5000,538.91,USD,CFR,Paranagua,Antwerp

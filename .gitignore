@@ -1,0 +1,14 @@
+# Python / local files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database local files
+*.db
+*.sqlite
+*.sqlite3

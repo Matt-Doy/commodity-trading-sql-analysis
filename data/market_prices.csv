@@ -1,0 +1,583 @@
+price_date,commodity,benchmark_price_usd_per_ton,source
+2025-01-04,Crude Oil,588.38,Synthetic Benchmark
+2025-01-04,Diesel,733.45,Synthetic Benchmark
+2025-01-04,Gasoline,730.63,Synthetic Benchmark
+2025-01-04,Soybeans,434.84,Synthetic Benchmark
+2025-01-04,Corn,209.61,Synthetic Benchmark
+2025-01-04,LNG,541.96,Synthetic Benchmark
+2025-01-07,Crude Oil,635.4,Synthetic Benchmark
+2025-01-07,Diesel,799.0,Synthetic Benchmark
+2025-01-07,Gasoline,730.95,Synthetic Benchmark
+2025-01-07,Soybeans,439.67,Synthetic Benchmark
+2025-01-07,Corn,225.94,Synthetic Benchmark
+2025-01-07,LNG,579.34,Synthetic Benchmark
+2025-01-09,Crude Oil,629.3,Synthetic Benchmark
+2025-01-09,Diesel,795.09,Synthetic Benchmark
+2025-01-09,Gasoline,773.25,Synthetic Benchmark
+2025-01-09,Soybeans,426.14,Synthetic Benchmark
+2025-01-09,Corn,216.15,Synthetic Benchmark
+2025-01-09,LNG,569.92,Synthetic Benchmark
+2025-01-12,Crude Oil,650.39,Synthetic Benchmark
+2025-01-12,Diesel,810.57,Synthetic Benchmark
+2025-01-12,Gasoline,697.2,Synthetic Benchmark
+2025-01-12,Soybeans,412.76,Synthetic Benchmark
+2025-01-12,Corn,210.04,Synthetic Benchmark
+2025-01-12,LNG,576.73,Synthetic Benchmark
+2025-01-15,Crude Oil,625.15,Synthetic Benchmark
+2025-01-15,Diesel,760.21,Synthetic Benchmark
+2025-01-15,Gasoline,701.87,Synthetic Benchmark
+2025-01-15,Soybeans,439.74,Synthetic Benchmark
+2025-01-15,Corn,220.15,Synthetic Benchmark
+2025-01-15,LNG,589.75,Synthetic Benchmark
+2025-01-18,Crude Oil,620.04,Synthetic Benchmark
+2025-01-18,Diesel,779.42,Synthetic Benchmark
+2025-01-18,Gasoline,697.99,Synthetic Benchmark
+2025-01-18,Soybeans,406.26,Synthetic Benchmark
+2025-01-18,Corn,213.25,Synthetic Benchmark
+2025-01-18,LNG,548.06,Synthetic Benchmark
+2025-01-25,Crude Oil,601.43,Synthetic Benchmark
+2025-01-25,Diesel,741.75,Synthetic Benchmark
+2025-01-25,Gasoline,775.74,Synthetic Benchmark
+2025-01-25,Soybeans,447.34,Synthetic Benchmark
+2025-01-25,Corn,216.94,Synthetic Benchmark
+2025-01-25,LNG,590.29,Synthetic Benchmark
+2025-01-26,Crude Oil,657.17,Synthetic Benchmark
+2025-01-26,Diesel,796.13,Synthetic Benchmark
+2025-01-26,Gasoline,714.67,Synthetic Benchmark
+2025-01-26,Soybeans,406.28,Synthetic Benchmark
+2025-01-26,Corn,221.61,Synthetic Benchmark
+2025-01-26,LNG,558.02,Synthetic Benchmark
+2025-01-31,Crude Oil,631.27,Synthetic Benchmark
+2025-01-31,Diesel,818.94,Synthetic Benchmark
+2025-01-31,Gasoline,706.91,Synthetic Benchmark
+2025-01-31,Soybeans,434.4,Synthetic Benchmark
+2025-01-31,Corn,218.48,Synthetic Benchmark
+2025-01-31,LNG,559.44,Synthetic Benchmark
+2025-02-01,Crude Oil,589.59,Synthetic Benchmark
+2025-02-01,Diesel,765.77,Synthetic Benchmark
+2025-02-01,Gasoline,720.3,Synthetic Benchmark
+2025-02-01,Soybeans,438.78,Synthetic Benchmark
+2025-02-01,Corn,224.23,Synthetic Benchmark
+2025-02-01,LNG,548.56,Synthetic Benchmark
+2025-02-08,Crude Oil,634.41,Synthetic Benchmark
+2025-02-08,Diesel,760.18,Synthetic Benchmark
+2025-02-08,Gasoline,774.27,Synthetic Benchmark
+2025-02-08,Soybeans,446.18,Synthetic Benchmark
+2025-02-08,Corn,216.29,Synthetic Benchmark
+2025-02-08,LNG,556.96,Synthetic Benchmark
+2025-02-09,Crude Oil,606.2,Synthetic Benchmark
+2025-02-09,Diesel,763.46,Synthetic Benchmark
+2025-02-09,Gasoline,776.47,Synthetic Benchmark
+2025-02-09,Soybeans,425.06,Synthetic Benchmark
+2025-02-09,Corn,215.38,Synthetic Benchmark
+2025-02-09,LNG,592.8,Synthetic Benchmark
+2025-02-10,Crude Oil,631.73,Synthetic Benchmark
+2025-02-10,Diesel,783.99,Synthetic Benchmark
+2025-02-10,Gasoline,727.35,Synthetic Benchmark
+2025-02-10,Soybeans,413.88,Synthetic Benchmark
+2025-02-10,Corn,211.43,Synthetic Benchmark
+2025-02-10,LNG,577.23,Synthetic Benchmark
+2025-02-12,Crude Oil,629.33,Synthetic Benchmark
+2025-02-12,Diesel,804.34,Synthetic Benchmark
+2025-02-12,Gasoline,708.85,Synthetic Benchmark
+2025-02-12,Soybeans,432.54,Synthetic Benchmark
+2025-02-12,Corn,226.03,Synthetic Benchmark
+2025-02-12,LNG,555.84,Synthetic Benchmark
+2025-02-13,Crude Oil,634.75,Synthetic Benchmark
+2025-02-13,Diesel,744.57,Synthetic Benchmark
+2025-02-13,Gasoline,776.73,Synthetic Benchmark
+2025-02-13,Soybeans,435.62,Synthetic Benchmark
+2025-02-13,Corn,208.27,Synthetic Benchmark
+2025-02-13,LNG,537.04,Synthetic Benchmark
+2025-02-15,Crude Oil,623.78,Synthetic Benchmark
+2025-02-15,Diesel,784.89,Synthetic Benchmark
+2025-02-15,Gasoline,699.12,Synthetic Benchmark
+2025-02-15,Soybeans,455.4,Synthetic Benchmark
+2025-02-15,Corn,225.65,Synthetic Benchmark
+2025-02-15,LNG,557.41,Synthetic Benchmark
+2025-02-19,Crude Oil,591.54,Synthetic Benchmark
+2025-02-19,Diesel,811.09,Synthetic Benchmark
+2025-02-19,Gasoline,734.86,Synthetic Benchmark
+2025-02-19,Soybeans,441.18,Synthetic Benchmark
+2025-02-19,Corn,215.23,Synthetic Benchmark
+2025-02-19,LNG,544.77,Synthetic Benchmark
+2025-02-21,Crude Oil,644.9,Synthetic Benchmark
+2025-02-21,Diesel,824.95,Synthetic Benchmark
+2025-02-21,Gasoline,712.4,Synthetic Benchmark
+2025-02-21,Soybeans,432.65,Synthetic Benchmark
+2025-02-21,Corn,212.0,Synthetic Benchmark
+2025-02-21,LNG,588.35,Synthetic Benchmark
+2025-02-22,Crude Oil,620.61,Synthetic Benchmark
+2025-02-22,Diesel,815.5,Synthetic Benchmark
+2025-02-22,Gasoline,767.11,Synthetic Benchmark
+2025-02-22,Soybeans,418.45,Synthetic Benchmark
+2025-02-22,Corn,222.48,Synthetic Benchmark
+2025-02-22,LNG,554.28,Synthetic Benchmark
+2025-02-26,Crude Oil,652.31,Synthetic Benchmark
+2025-02-26,Diesel,780.72,Synthetic Benchmark
+2025-02-26,Gasoline,763.27,Synthetic Benchmark
+2025-02-26,Soybeans,418.79,Synthetic Benchmark
+2025-02-26,Corn,209.8,Synthetic Benchmark
+2025-02-26,LNG,565.84,Synthetic Benchmark
+2025-02-27,Crude Oil,657.12,Synthetic Benchmark
+2025-02-27,Diesel,779.03,Synthetic Benchmark
+2025-02-27,Gasoline,704.01,Synthetic Benchmark
+2025-02-27,Soybeans,431.99,Synthetic Benchmark
+2025-02-27,Corn,211.0,Synthetic Benchmark
+2025-02-27,LNG,563.49,Synthetic Benchmark
+2025-03-01,Crude Oil,623.23,Synthetic Benchmark
+2025-03-01,Diesel,775.82,Synthetic Benchmark
+2025-03-01,Gasoline,719.28,Synthetic Benchmark
+2025-03-01,Soybeans,413.93,Synthetic Benchmark
+2025-03-01,Corn,220.1,Synthetic Benchmark
+2025-03-01,LNG,564.82,Synthetic Benchmark
+2025-03-05,Crude Oil,600.18,Synthetic Benchmark
+2025-03-05,Diesel,805.79,Synthetic Benchmark
+2025-03-05,Gasoline,694.75,Synthetic Benchmark
+2025-03-05,Soybeans,442.63,Synthetic Benchmark
+2025-03-05,Corn,220.29,Synthetic Benchmark
+2025-03-05,LNG,580.93,Synthetic Benchmark
+2025-03-06,Crude Oil,611.52,Synthetic Benchmark
+2025-03-06,Diesel,795.32,Synthetic Benchmark
+2025-03-06,Gasoline,763.29,Synthetic Benchmark
+2025-03-06,Soybeans,454.81,Synthetic Benchmark
+2025-03-06,Corn,214.88,Synthetic Benchmark
+2025-03-06,LNG,528.89,Synthetic Benchmark
+2025-03-07,Crude Oil,620.17,Synthetic Benchmark
+2025-03-07,Diesel,788.44,Synthetic Benchmark
+2025-03-07,Gasoline,767.61,Synthetic Benchmark
+2025-03-07,Soybeans,449.31,Synthetic Benchmark
+2025-03-07,Corn,213.46,Synthetic Benchmark
+2025-03-07,LNG,561.74,Synthetic Benchmark
+2025-03-19,Crude Oil,616.8,Synthetic Benchmark
+2025-03-19,Diesel,800.82,Synthetic Benchmark
+2025-03-19,Gasoline,727.06,Synthetic Benchmark
+2025-03-19,Soybeans,437.99,Synthetic Benchmark
+2025-03-19,Corn,206.08,Synthetic Benchmark
+2025-03-19,LNG,557.95,Synthetic Benchmark
+2025-03-25,Crude Oil,654.91,Synthetic Benchmark
+2025-03-25,Diesel,764.89,Synthetic Benchmark
+2025-03-25,Gasoline,752.0,Synthetic Benchmark
+2025-03-25,Soybeans,437.73,Synthetic Benchmark
+2025-03-25,Corn,224.08,Synthetic Benchmark
+2025-03-25,LNG,583.68,Synthetic Benchmark
+2025-03-27,Crude Oil,646.74,Synthetic Benchmark
+2025-03-27,Diesel,768.77,Synthetic Benchmark
+2025-03-27,Gasoline,718.83,Synthetic Benchmark
+2025-03-27,Soybeans,441.29,Synthetic Benchmark
+2025-03-27,Corn,221.69,Synthetic Benchmark
+2025-03-27,LNG,585.02,Synthetic Benchmark
+2025-03-29,Crude Oil,585.47,Synthetic Benchmark
+2025-03-29,Diesel,739.6,Synthetic Benchmark
+2025-03-29,Gasoline,746.57,Synthetic Benchmark
+2025-03-29,Soybeans,451.72,Synthetic Benchmark
+2025-03-29,Corn,227.83,Synthetic Benchmark
+2025-03-29,LNG,576.58,Synthetic Benchmark
+2025-04-02,Crude Oil,615.09,Synthetic Benchmark
+2025-04-02,Diesel,742.41,Synthetic Benchmark
+2025-04-02,Gasoline,746.8,Synthetic Benchmark
+2025-04-02,Soybeans,449.23,Synthetic Benchmark
+2025-04-02,Corn,213.55,Synthetic Benchmark
+2025-04-02,LNG,573.04,Synthetic Benchmark
+2025-04-03,Crude Oil,650.01,Synthetic Benchmark
+2025-04-03,Diesel,737.5,Synthetic Benchmark
+2025-04-03,Gasoline,761.12,Synthetic Benchmark
+2025-04-03,Soybeans,419.34,Synthetic Benchmark
+2025-04-03,Corn,211.77,Synthetic Benchmark
+2025-04-03,LNG,536.18,Synthetic Benchmark
+2025-04-06,Crude Oil,622.32,Synthetic Benchmark
+2025-04-06,Diesel,786.17,Synthetic Benchmark
+2025-04-06,Gasoline,760.8,Synthetic Benchmark
+2025-04-06,Soybeans,412.97,Synthetic Benchmark
+2025-04-06,Corn,204.14,Synthetic Benchmark
+2025-04-06,LNG,584.92,Synthetic Benchmark
+2025-04-10,Crude Oil,628.91,Synthetic Benchmark
+2025-04-10,Diesel,755.74,Synthetic Benchmark
+2025-04-10,Gasoline,771.41,Synthetic Benchmark
+2025-04-10,Soybeans,411.58,Synthetic Benchmark
+2025-04-10,Corn,214.0,Synthetic Benchmark
+2025-04-10,LNG,543.47,Synthetic Benchmark
+2025-04-13,Crude Oil,601.8,Synthetic Benchmark
+2025-04-13,Diesel,734.08,Synthetic Benchmark
+2025-04-13,Gasoline,761.87,Synthetic Benchmark
+2025-04-13,Soybeans,450.7,Synthetic Benchmark
+2025-04-13,Corn,219.58,Synthetic Benchmark
+2025-04-13,LNG,537.02,Synthetic Benchmark
+2025-04-15,Crude Oil,615.66,Synthetic Benchmark
+2025-04-15,Diesel,765.54,Synthetic Benchmark
+2025-04-15,Gasoline,742.72,Synthetic Benchmark
+2025-04-15,Soybeans,437.17,Synthetic Benchmark
+2025-04-15,Corn,213.05,Synthetic Benchmark
+2025-04-15,LNG,543.21,Synthetic Benchmark
+2025-04-20,Crude Oil,645.69,Synthetic Benchmark
+2025-04-20,Diesel,751.85,Synthetic Benchmark
+2025-04-20,Gasoline,724.83,Synthetic Benchmark
+2025-04-20,Soybeans,429.13,Synthetic Benchmark
+2025-04-20,Corn,208.22,Synthetic Benchmark
+2025-04-20,LNG,564.83,Synthetic Benchmark
+2025-04-21,Crude Oil,625.57,Synthetic Benchmark
+2025-04-21,Diesel,826.12,Synthetic Benchmark
+2025-04-21,Gasoline,716.94,Synthetic Benchmark
+2025-04-21,Soybeans,454.66,Synthetic Benchmark
+2025-04-21,Corn,219.08,Synthetic Benchmark
+2025-04-21,LNG,544.85,Synthetic Benchmark
+2025-04-22,Crude Oil,624.91,Synthetic Benchmark
+2025-04-22,Diesel,797.39,Synthetic Benchmark
+2025-04-22,Gasoline,756.58,Synthetic Benchmark
+2025-04-22,Soybeans,406.73,Synthetic Benchmark
+2025-04-22,Corn,217.75,Synthetic Benchmark
+2025-04-22,LNG,559.78,Synthetic Benchmark
+2025-04-24,Crude Oil,650.07,Synthetic Benchmark
+2025-04-24,Diesel,759.99,Synthetic Benchmark
+2025-04-24,Gasoline,761.36,Synthetic Benchmark
+2025-04-24,Soybeans,435.52,Synthetic Benchmark
+2025-04-24,Corn,211.19,Synthetic Benchmark
+2025-04-24,LNG,569.18,Synthetic Benchmark
+2025-04-25,Crude Oil,628.99,Synthetic Benchmark
+2025-04-25,Diesel,796.64,Synthetic Benchmark
+2025-04-25,Gasoline,754.49,Synthetic Benchmark
+2025-04-25,Soybeans,438.21,Synthetic Benchmark
+2025-04-25,Corn,223.73,Synthetic Benchmark
+2025-04-25,LNG,568.62,Synthetic Benchmark
+2025-04-28,Crude Oil,650.01,Synthetic Benchmark
+2025-04-28,Diesel,793.7,Synthetic Benchmark
+2025-04-28,Gasoline,718.15,Synthetic Benchmark
+2025-04-28,Soybeans,426.95,Synthetic Benchmark
+2025-04-28,Corn,217.05,Synthetic Benchmark
+2025-04-28,LNG,575.61,Synthetic Benchmark
+2025-04-29,Crude Oil,589.51,Synthetic Benchmark
+2025-04-29,Diesel,760.82,Synthetic Benchmark
+2025-04-29,Gasoline,756.83,Synthetic Benchmark
+2025-04-29,Soybeans,413.26,Synthetic Benchmark
+2025-04-29,Corn,205.51,Synthetic Benchmark
+2025-04-29,LNG,562.65,Synthetic Benchmark
+2025-05-01,Crude Oil,655.08,Synthetic Benchmark
+2025-05-01,Diesel,782.89,Synthetic Benchmark
+2025-05-01,Gasoline,771.47,Synthetic Benchmark
+2025-05-01,Soybeans,447.05,Synthetic Benchmark
+2025-05-01,Corn,208.73,Synthetic Benchmark
+2025-05-01,LNG,581.82,Synthetic Benchmark
+2025-05-12,Crude Oil,618.65,Synthetic Benchmark
+2025-05-12,Diesel,808.69,Synthetic Benchmark
+2025-05-12,Gasoline,756.75,Synthetic Benchmark
+2025-05-12,Soybeans,421.68,Synthetic Benchmark
+2025-05-12,Corn,205.07,Synthetic Benchmark
+2025-05-12,LNG,591.11,Synthetic Benchmark
+2025-05-16,Crude Oil,593.27,Synthetic Benchmark
+2025-05-16,Diesel,823.66,Synthetic Benchmark
+2025-05-16,Gasoline,766.76,Synthetic Benchmark
+2025-05-16,Soybeans,441.57,Synthetic Benchmark
+2025-05-16,Corn,227.38,Synthetic Benchmark
+2025-05-16,LNG,591.4,Synthetic Benchmark
+2025-05-17,Crude Oil,642.66,Synthetic Benchmark
+2025-05-17,Diesel,767.44,Synthetic Benchmark
+2025-05-17,Gasoline,760.64,Synthetic Benchmark
+2025-05-17,Soybeans,404.92,Synthetic Benchmark
+2025-05-17,Corn,215.94,Synthetic Benchmark
+2025-05-17,LNG,556.96,Synthetic Benchmark
+2025-05-19,Crude Oil,632.86,Synthetic Benchmark
+2025-05-19,Diesel,796.13,Synthetic Benchmark
+2025-05-19,Gasoline,742.46,Synthetic Benchmark
+2025-05-19,Soybeans,446.64,Synthetic Benchmark
+2025-05-19,Corn,226.36,Synthetic Benchmark
+2025-05-19,LNG,533.68,Synthetic Benchmark
+2025-05-21,Crude Oil,600.2,Synthetic Benchmark
+2025-05-21,Diesel,735.54,Synthetic Benchmark
+2025-05-21,Gasoline,768.89,Synthetic Benchmark
+2025-05-21,Soybeans,433.17,Synthetic Benchmark
+2025-05-21,Corn,225.71,Synthetic Benchmark
+2025-05-21,LNG,541.28,Synthetic Benchmark
+2025-05-24,Crude Oil,587.5,Synthetic Benchmark
+2025-05-24,Diesel,810.31,Synthetic Benchmark
+2025-05-24,Gasoline,771.11,Synthetic Benchmark
+2025-05-24,Soybeans,419.79,Synthetic Benchmark
+2025-05-24,Corn,212.63,Synthetic Benchmark
+2025-05-24,LNG,535.79,Synthetic Benchmark
+2025-05-25,Crude Oil,653.2,Synthetic Benchmark
+2025-05-25,Diesel,761.69,Synthetic Benchmark
+2025-05-25,Gasoline,734.35,Synthetic Benchmark
+2025-05-25,Soybeans,409.22,Synthetic Benchmark
+2025-05-25,Corn,224.99,Synthetic Benchmark
+2025-05-25,LNG,535.52,Synthetic Benchmark
+2025-05-29,Crude Oil,616.55,Synthetic Benchmark
+2025-05-29,Diesel,795.96,Synthetic Benchmark
+2025-05-29,Gasoline,756.44,Synthetic Benchmark
+2025-05-29,Soybeans,453.01,Synthetic Benchmark
+2025-05-29,Corn,212.91,Synthetic Benchmark
+2025-05-29,LNG,576.28,Synthetic Benchmark
+2025-06-04,Crude Oil,594.3,Synthetic Benchmark
+2025-06-04,Diesel,772.03,Synthetic Benchmark
+2025-06-04,Gasoline,699.63,Synthetic Benchmark
+2025-06-04,Soybeans,429.45,Synthetic Benchmark
+2025-06-04,Corn,212.63,Synthetic Benchmark
+2025-06-04,LNG,590.34,Synthetic Benchmark
+2025-06-08,Crude Oil,585.23,Synthetic Benchmark
+2025-06-08,Diesel,767.88,Synthetic Benchmark
+2025-06-08,Gasoline,730.01,Synthetic Benchmark
+2025-06-08,Soybeans,453.25,Synthetic Benchmark
+2025-06-08,Corn,224.17,Synthetic Benchmark
+2025-06-08,LNG,533.08,Synthetic Benchmark
+2025-06-12,Crude Oil,633.81,Synthetic Benchmark
+2025-06-12,Diesel,784.16,Synthetic Benchmark
+2025-06-12,Gasoline,777.15,Synthetic Benchmark
+2025-06-12,Soybeans,422.71,Synthetic Benchmark
+2025-06-12,Corn,212.37,Synthetic Benchmark
+2025-06-12,LNG,539.16,Synthetic Benchmark
+2025-06-13,Crude Oil,591.89,Synthetic Benchmark
+2025-06-13,Diesel,812.58,Synthetic Benchmark
+2025-06-13,Gasoline,731.01,Synthetic Benchmark
+2025-06-13,Soybeans,438.4,Synthetic Benchmark
+2025-06-13,Corn,218.66,Synthetic Benchmark
+2025-06-13,LNG,566.53,Synthetic Benchmark
+2025-06-21,Crude Oil,584.39,Synthetic Benchmark
+2025-06-21,Diesel,806.84,Synthetic Benchmark
+2025-06-21,Gasoline,712.38,Synthetic Benchmark
+2025-06-21,Soybeans,410.7,Synthetic Benchmark
+2025-06-21,Corn,216.67,Synthetic Benchmark
+2025-06-21,LNG,531.01,Synthetic Benchmark
+2025-06-22,Crude Oil,639.73,Synthetic Benchmark
+2025-06-22,Diesel,752.59,Synthetic Benchmark
+2025-06-22,Gasoline,709.95,Synthetic Benchmark
+2025-06-22,Soybeans,449.08,Synthetic Benchmark
+2025-06-22,Corn,210.58,Synthetic Benchmark
+2025-06-22,LNG,536.32,Synthetic Benchmark
+2025-06-24,Crude Oil,649.8,Synthetic Benchmark
+2025-06-24,Diesel,733.47,Synthetic Benchmark
+2025-06-24,Gasoline,766.61,Synthetic Benchmark
+2025-06-24,Soybeans,411.67,Synthetic Benchmark
+2025-06-24,Corn,205.45,Synthetic Benchmark
+2025-06-24,LNG,543.24,Synthetic Benchmark
+2025-06-25,Crude Oil,595.78,Synthetic Benchmark
+2025-06-25,Diesel,795.07,Synthetic Benchmark
+2025-06-25,Gasoline,693.17,Synthetic Benchmark
+2025-06-25,Soybeans,404.97,Synthetic Benchmark
+2025-06-25,Corn,222.48,Synthetic Benchmark
+2025-06-25,LNG,542.39,Synthetic Benchmark
+2025-06-26,Crude Oil,606.89,Synthetic Benchmark
+2025-06-26,Diesel,749.51,Synthetic Benchmark
+2025-06-26,Gasoline,695.52,Synthetic Benchmark
+2025-06-26,Soybeans,442.47,Synthetic Benchmark
+2025-06-26,Corn,215.67,Synthetic Benchmark
+2025-06-26,LNG,576.51,Synthetic Benchmark
+2025-06-27,Crude Oil,618.23,Synthetic Benchmark
+2025-06-27,Diesel,806.02,Synthetic Benchmark
+2025-06-27,Gasoline,736.17,Synthetic Benchmark
+2025-06-27,Soybeans,409.83,Synthetic Benchmark
+2025-06-27,Corn,215.1,Synthetic Benchmark
+2025-06-27,LNG,589.93,Synthetic Benchmark
+2025-07-01,Crude Oil,586.03,Synthetic Benchmark
+2025-07-01,Diesel,806.51,Synthetic Benchmark
+2025-07-01,Gasoline,767.37,Synthetic Benchmark
+2025-07-01,Soybeans,431.11,Synthetic Benchmark
+2025-07-01,Corn,213.92,Synthetic Benchmark
+2025-07-01,LNG,591.18,Synthetic Benchmark
+2025-07-07,Crude Oil,587.33,Synthetic Benchmark
+2025-07-07,Diesel,778.03,Synthetic Benchmark
+2025-07-07,Gasoline,726.32,Synthetic Benchmark
+2025-07-07,Soybeans,439.6,Synthetic Benchmark
+2025-07-07,Corn,214.75,Synthetic Benchmark
+2025-07-07,LNG,587.53,Synthetic Benchmark
+2025-07-11,Crude Oil,588.27,Synthetic Benchmark
+2025-07-11,Diesel,740.76,Synthetic Benchmark
+2025-07-11,Gasoline,744.55,Synthetic Benchmark
+2025-07-11,Soybeans,407.59,Synthetic Benchmark
+2025-07-11,Corn,209.2,Synthetic Benchmark
+2025-07-11,LNG,568.94,Synthetic Benchmark
+2025-07-13,Crude Oil,623.6,Synthetic Benchmark
+2025-07-13,Diesel,763.64,Synthetic Benchmark
+2025-07-13,Gasoline,778.63,Synthetic Benchmark
+2025-07-13,Soybeans,431.58,Synthetic Benchmark
+2025-07-13,Corn,213.81,Synthetic Benchmark
+2025-07-13,LNG,567.08,Synthetic Benchmark
+2025-07-16,Crude Oil,590.18,Synthetic Benchmark
+2025-07-16,Diesel,798.89,Synthetic Benchmark
+2025-07-16,Gasoline,766.12,Synthetic Benchmark
+2025-07-16,Soybeans,437.79,Synthetic Benchmark
+2025-07-16,Corn,221.94,Synthetic Benchmark
+2025-07-16,LNG,574.84,Synthetic Benchmark
+2025-07-26,Crude Oil,598.8,Synthetic Benchmark
+2025-07-26,Diesel,775.47,Synthetic Benchmark
+2025-07-26,Gasoline,711.05,Synthetic Benchmark
+2025-07-26,Soybeans,421.69,Synthetic Benchmark
+2025-07-26,Corn,213.8,Synthetic Benchmark
+2025-07-26,LNG,554.35,Synthetic Benchmark
+2025-07-27,Crude Oil,589.87,Synthetic Benchmark
+2025-07-27,Diesel,773.15,Synthetic Benchmark
+2025-07-27,Gasoline,749.56,Synthetic Benchmark
+2025-07-27,Soybeans,423.51,Synthetic Benchmark
+2025-07-27,Corn,206.04,Synthetic Benchmark
+2025-07-27,LNG,588.42,Synthetic Benchmark
+2025-07-28,Crude Oil,587.79,Synthetic Benchmark
+2025-07-28,Diesel,811.05,Synthetic Benchmark
+2025-07-28,Gasoline,699.12,Synthetic Benchmark
+2025-07-28,Soybeans,409.18,Synthetic Benchmark
+2025-07-28,Corn,221.16,Synthetic Benchmark
+2025-07-28,LNG,580.95,Synthetic Benchmark
+2025-07-29,Crude Oil,624.19,Synthetic Benchmark
+2025-07-29,Diesel,788.09,Synthetic Benchmark
+2025-07-29,Gasoline,740.43,Synthetic Benchmark
+2025-07-29,Soybeans,421.21,Synthetic Benchmark
+2025-07-29,Corn,205.25,Synthetic Benchmark
+2025-07-29,LNG,550.16,Synthetic Benchmark
+2025-08-03,Crude Oil,632.3,Synthetic Benchmark
+2025-08-03,Diesel,803.43,Synthetic Benchmark
+2025-08-03,Gasoline,767.47,Synthetic Benchmark
+2025-08-03,Soybeans,441.41,Synthetic Benchmark
+2025-08-03,Corn,227.08,Synthetic Benchmark
+2025-08-03,LNG,566.75,Synthetic Benchmark
+2025-08-05,Crude Oil,608.96,Synthetic Benchmark
+2025-08-05,Diesel,787.29,Synthetic Benchmark
+2025-08-05,Gasoline,709.66,Synthetic Benchmark
+2025-08-05,Soybeans,438.09,Synthetic Benchmark
+2025-08-05,Corn,207.89,Synthetic Benchmark
+2025-08-05,LNG,533.67,Synthetic Benchmark
+2025-08-07,Crude Oil,645.7,Synthetic Benchmark
+2025-08-07,Diesel,767.6,Synthetic Benchmark
+2025-08-07,Gasoline,758.16,Synthetic Benchmark
+2025-08-07,Soybeans,433.82,Synthetic Benchmark
+2025-08-07,Corn,222.93,Synthetic Benchmark
+2025-08-07,LNG,583.19,Synthetic Benchmark
+2025-08-11,Crude Oil,655.31,Synthetic Benchmark
+2025-08-11,Diesel,809.8,Synthetic Benchmark
+2025-08-11,Gasoline,745.02,Synthetic Benchmark
+2025-08-11,Soybeans,437.36,Synthetic Benchmark
+2025-08-11,Corn,202.78,Synthetic Benchmark
+2025-08-11,LNG,588.83,Synthetic Benchmark
+2025-08-17,Crude Oil,644.51,Synthetic Benchmark
+2025-08-17,Diesel,758.23,Synthetic Benchmark
+2025-08-17,Gasoline,706.81,Synthetic Benchmark
+2025-08-17,Soybeans,440.46,Synthetic Benchmark
+2025-08-17,Corn,210.07,Synthetic Benchmark
+2025-08-17,LNG,549.24,Synthetic Benchmark
+2025-08-25,Crude Oil,583.25,Synthetic Benchmark
+2025-08-25,Diesel,814.62,Synthetic Benchmark
+2025-08-25,Gasoline,740.85,Synthetic Benchmark
+2025-08-25,Soybeans,424.88,Synthetic Benchmark
+2025-08-25,Corn,205.76,Synthetic Benchmark
+2025-08-25,LNG,568.95,Synthetic Benchmark
+2025-08-26,Crude Oil,585.08,Synthetic Benchmark
+2025-08-26,Diesel,803.04,Synthetic Benchmark
+2025-08-26,Gasoline,709.87,Synthetic Benchmark
+2025-08-26,Soybeans,425.86,Synthetic Benchmark
+2025-08-26,Corn,210.9,Synthetic Benchmark
+2025-08-26,LNG,551.27,Synthetic Benchmark
+2025-08-29,Crude Oil,636.49,Synthetic Benchmark
+2025-08-29,Diesel,805.91,Synthetic Benchmark
+2025-08-29,Gasoline,740.96,Synthetic Benchmark
+2025-08-29,Soybeans,408.58,Synthetic Benchmark
+2025-08-29,Corn,203.46,Synthetic Benchmark
+2025-08-29,LNG,536.98,Synthetic Benchmark
+2025-09-02,Crude Oil,628.77,Synthetic Benchmark
+2025-09-02,Diesel,796.28,Synthetic Benchmark
+2025-09-02,Gasoline,714.9,Synthetic Benchmark
+2025-09-02,Soybeans,438.36,Synthetic Benchmark
+2025-09-02,Corn,214.63,Synthetic Benchmark
+2025-09-02,LNG,556.11,Synthetic Benchmark
+2025-09-03,Crude Oil,603.12,Synthetic Benchmark
+2025-09-03,Diesel,803.86,Synthetic Benchmark
+2025-09-03,Gasoline,700.94,Synthetic Benchmark
+2025-09-03,Soybeans,426.38,Synthetic Benchmark
+2025-09-03,Corn,209.41,Synthetic Benchmark
+2025-09-03,LNG,571.99,Synthetic Benchmark
+2025-09-09,Crude Oil,619.01,Synthetic Benchmark
+2025-09-09,Diesel,795.64,Synthetic Benchmark
+2025-09-09,Gasoline,694.91,Synthetic Benchmark
+2025-09-09,Soybeans,424.6,Synthetic Benchmark
+2025-09-09,Corn,217.56,Synthetic Benchmark
+2025-09-09,LNG,526.92,Synthetic Benchmark
+2025-09-12,Crude Oil,605.23,Synthetic Benchmark
+2025-09-12,Diesel,752.97,Synthetic Benchmark
+2025-09-12,Gasoline,703.0,Synthetic Benchmark
+2025-09-12,Soybeans,417.38,Synthetic Benchmark
+2025-09-12,Corn,210.57,Synthetic Benchmark
+2025-09-12,LNG,526.92,Synthetic Benchmark
+2025-09-18,Crude Oil,638.38,Synthetic Benchmark
+2025-09-18,Diesel,749.65,Synthetic Benchmark
+2025-09-18,Gasoline,724.43,Synthetic Benchmark
+2025-09-18,Soybeans,440.51,Synthetic Benchmark
+2025-09-18,Corn,215.01,Synthetic Benchmark
+2025-09-18,LNG,582.4,Synthetic Benchmark
+2025-10-01,Crude Oil,642.78,Synthetic Benchmark
+2025-10-01,Diesel,739.95,Synthetic Benchmark
+2025-10-01,Gasoline,766.91,Synthetic Benchmark
+2025-10-01,Soybeans,406.38,Synthetic Benchmark
+2025-10-01,Corn,202.58,Synthetic Benchmark
+2025-10-01,LNG,588.3,Synthetic Benchmark
+2025-10-04,Crude Oil,646.94,Synthetic Benchmark
+2025-10-04,Diesel,787.09,Synthetic Benchmark
+2025-10-04,Gasoline,741.47,Synthetic Benchmark
+2025-10-04,Soybeans,440.81,Synthetic Benchmark
+2025-10-04,Corn,212.88,Synthetic Benchmark
+2025-10-04,LNG,534.14,Synthetic Benchmark
+2025-10-06,Crude Oil,584.35,Synthetic Benchmark
+2025-10-06,Diesel,763.6,Synthetic Benchmark
+2025-10-06,Gasoline,761.58,Synthetic Benchmark
+2025-10-06,Soybeans,436.1,Synthetic Benchmark
+2025-10-06,Corn,223.57,Synthetic Benchmark
+2025-10-06,LNG,588.21,Synthetic Benchmark
+2025-10-09,Crude Oil,589.36,Synthetic Benchmark
+2025-10-09,Diesel,812.24,Synthetic Benchmark
+2025-10-09,Gasoline,712.36,Synthetic Benchmark
+2025-10-09,Soybeans,434.59,Synthetic Benchmark
+2025-10-09,Corn,215.62,Synthetic Benchmark
+2025-10-09,LNG,553.0,Synthetic Benchmark
+2025-10-12,Crude Oil,605.88,Synthetic Benchmark
+2025-10-12,Diesel,764.98,Synthetic Benchmark
+2025-10-12,Gasoline,720.28,Synthetic Benchmark
+2025-10-12,Soybeans,412.88,Synthetic Benchmark
+2025-10-12,Corn,215.27,Synthetic Benchmark
+2025-10-12,LNG,534.06,Synthetic Benchmark
+2025-10-13,Crude Oil,620.74,Synthetic Benchmark
+2025-10-13,Diesel,817.99,Synthetic Benchmark
+2025-10-13,Gasoline,721.71,Synthetic Benchmark
+2025-10-13,Soybeans,441.73,Synthetic Benchmark
+2025-10-13,Corn,223.23,Synthetic Benchmark
+2025-10-13,LNG,581.17,Synthetic Benchmark
+2025-10-20,Crude Oil,600.38,Synthetic Benchmark
+2025-10-20,Diesel,746.91,Synthetic Benchmark
+2025-10-20,Gasoline,708.3,Synthetic Benchmark
+2025-10-20,Soybeans,435.28,Synthetic Benchmark
+2025-10-20,Corn,221.71,Synthetic Benchmark
+2025-10-20,LNG,570.45,Synthetic Benchmark
+2025-10-25,Crude Oil,595.98,Synthetic Benchmark
+2025-10-25,Diesel,805.54,Synthetic Benchmark
+2025-10-25,Gasoline,734.48,Synthetic Benchmark
+2025-10-25,Soybeans,443.13,Synthetic Benchmark
+2025-10-25,Corn,221.7,Synthetic Benchmark
+2025-10-25,LNG,556.57,Synthetic Benchmark
+2025-10-29,Crude Oil,651.56,Synthetic Benchmark
+2025-10-29,Diesel,786.04,Synthetic Benchmark
+2025-10-29,Gasoline,746.93,Synthetic Benchmark
+2025-10-29,Soybeans,436.43,Synthetic Benchmark
+2025-10-29,Corn,224.4,Synthetic Benchmark
+2025-10-29,LNG,568.55,Synthetic Benchmark
+2025-11-02,Crude Oil,594.03,Synthetic Benchmark
+2025-11-02,Diesel,739.59,Synthetic Benchmark
+2025-11-02,Gasoline,729.9,Synthetic Benchmark
+2025-11-02,Soybeans,419.83,Synthetic Benchmark
+2025-11-02,Corn,209.19,Synthetic Benchmark
+2025-11-02,LNG,530.17,Synthetic Benchmark
+2025-11-06,Crude Oil,620.55,Synthetic Benchmark
+2025-11-06,Diesel,762.25,Synthetic Benchmark
+2025-11-06,Gasoline,730.76,Synthetic Benchmark
+2025-11-06,Soybeans,407.14,Synthetic Benchmark
+2025-11-06,Corn,223.56,Synthetic Benchmark
+2025-11-06,LNG,531.56,Synthetic Benchmark
+2025-11-16,Crude Oil,647.1,Synthetic Benchmark
+2025-11-16,Diesel,813.26,Synthetic Benchmark
+2025-11-16,Gasoline,745.14,Synthetic Benchmark
+2025-11-16,Soybeans,430.36,Synthetic Benchmark
+2025-11-16,Corn,214.04,Synthetic Benchmark
+2025-11-16,LNG,563.65,Synthetic Benchmark
+2025-11-22,Crude Oil,641.71,Synthetic Benchmark
+2025-11-22,Diesel,817.05,Synthetic Benchmark
+2025-11-22,Gasoline,730.57,Synthetic Benchmark
+2025-11-22,Soybeans,445.99,Synthetic Benchmark
+2025-11-22,Corn,218.92,Synthetic Benchmark
+2025-11-22,LNG,548.01,Synthetic Benchmark
+2025-11-23,Crude Oil,618.19,Synthetic Benchmark
+2025-11-23,Diesel,747.32,Synthetic Benchmark
+2025-11-23,Gasoline,696.36,Synthetic Benchmark
+2025-11-23,Soybeans,409.54,Synthetic Benchmark
+2025-11-23,Corn,225.3,Synthetic Benchmark
+2025-11-23,LNG,549.48,Synthetic Benchmark

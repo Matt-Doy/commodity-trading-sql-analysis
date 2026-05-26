@@ -1,0 +1,34 @@
+route_id,port_loading,port_discharge,freight_rate_usd_per_ton
+R001,Santos,Rotterdam,58.72
+R002,Santos,Antwerp,46.76
+R003,Santos,Singapore,27.84
+R004,Santos,Shanghai,32.12
+R005,Santos,Hamburg,42.95
+R006,Santos,Houston,43.05
+R007,Paranagua,Rotterdam,47.8
+R008,Paranagua,Antwerp,27.05
+R009,Paranagua,Singapore,39.25
+R010,Paranagua,Shanghai,34.12
+R011,Paranagua,Hamburg,41.3
+R012,Paranagua,Houston,37.29
+R013,Houston,Rotterdam,52.08
+R014,Houston,Antwerp,62.99
+R015,Houston,Singapore,54.9
+R016,Houston,Shanghai,21.76
+R017,Houston,Hamburg,23.39
+R018,Rotterdam,Antwerp,56.67
+R019,Rotterdam,Singapore,34.2
+R020,Rotterdam,Shanghai,59.25
+R021,Rotterdam,Hamburg,55.42
+R022,Rotterdam,Houston,69.66
+R023,Singapore,Rotterdam,67.78
+R024,Singapore,Antwerp,37.0
+R025,Singapore,Shanghai,51.22
+R026,Singapore,Hamburg,26.06
+R027,Singapore,Houston,37.94
+R028,Ras Tanura,Rotterdam,73.16
+R029,Ras Tanura,Antwerp,57.81
+R030,Ras Tanura,Singapore,40.34
+R031,Ras Tanura,Shanghai,51.92
+R032,Ras Tanura,Hamburg,71.47
+R033,Ras Tanura,Houston,35.65
