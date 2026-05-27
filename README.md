@@ -1,165 +1,141 @@
-# Commodity Trading SQL Analysis
+# Commodity Trading — SQL Analysis
+
+> **SQL · SQLite · pandas · Python**  
+> Trade data querying · P&L analysis · Position tracking · Counterparty exposure · Market flows  
+> *Applied SQL for commodity trading operations, middle office and risk management*
+
+---
 
 ## Overview
 
-This project demonstrates how SQL can be used to analyze a simplified commodity trading dataset.
+This project demonstrates **SQL-based analysis of commodity trade data**, covering
+the types of queries used daily in trading operations, middle office and risk management:
+position monitoring, P&L attribution, counterparty exposure, trade flow analysis and
+performance reporting.
 
-The objective is to simulate the type of queries that may be useful for trading, market analysis, risk, operations or middle-office teams: trade volumes, average prices, counterparty exposure, benchmark comparison, freight-adjusted margins and ranking analysis.
+The dataset simulates a commodity trading book (crude oil, refined products, agricultural)
+with trades, counterparties, pricing and settlement data.
 
-## Important note on the data
+Built as a portfolio project for roles in **trading operations, trade support, risk analysis,
+data analytics and back/middle office** at commodity trading houses.
 
-The dataset used in this project is **synthetic and created for educational purposes only**.  
-It does not represent real trades, real counterparties, real market prices or confidential commercial information.
+---
 
-The goal is to demonstrate SQL logic and business reasoning in a commodity trading context.
+## Why SQL Matters in Commodity Trading
 
-## Business Context
+In a trading house, SQL is used every day:
 
-Commodity trading teams often work with transactional data such as:
+- **Operators** query CTRM systems to check open positions and pending deliveries
+- **Risk managers** pull exposure reports by counterparty, commodity and tenor
+- **Analysts** extract P&L attribution data for daily reporting
+- **Finance teams** reconcile trade capture against settlement and invoicing
 
-- trade date;
-- commodity;
-- counterparty;
-- traded volume;
-- trade price;
-- benchmark price;
-- loading and discharge ports;
-- freight costs;
-- Incoterms;
-- exposure by counterparty or region.
+This project shows the practical SQL skills that support those workflows.
 
-SQL is widely used to extract, clean, aggregate and analyze this type of data from internal systems.
+---
 
-## Tools Used
+## Key Queries Included
 
-- SQL
-- PostgreSQL-style syntax
-- CSV sample datasets
+| Query | Business Purpose |
+|---|---|
+| Open position by commodity | What is our current long/short exposure? |
+| Daily P&L by trade | Which trades drove today's result? |
+| Counterparty exposure | Who do we have the most credit risk with? |
+| Trade flow by region | Where are our physical flows concentrated? |
+| Settlement status | Which trades are pending confirmation or payment? |
+| Volume by trader | How is the book split across the desk? |
+| Price vs market mark | Are our trades at or above/below market? |
+| Monthly P&L summary | Performance attribution by commodity and month |
 
-The queries can be adapted for SQLite, MySQL, SQL Server or BigQuery with minor syntax changes.
+---
 
 ## Dataset Structure
 
-The project uses four synthetic CSV tables:
-
-### `trades.csv`
-
-Contains fictional physical commodity trades.
-
-Main columns:
-
-- `trade_id`
-- `trade_date`
-- `commodity`
-- `counterparty`
-- `volume_tons`
-- `price_usd_per_ton`
-- `currency`
-- `incoterm`
-- `port_loading`
-- `port_discharge`
-
-### `market_prices.csv`
-
-Contains fictional benchmark market prices.
-
-Main columns:
-
-- `price_date`
-- `commodity`
-- `benchmark_price_usd_per_ton`
-- `source`
-
-### `freight_costs.csv`
-
-Contains simplified freight costs by route.
-
-Main columns:
-
-- `route_id`
-- `port_loading`
-- `port_discharge`
-- `freight_rate_usd_per_ton`
-
-### `counterparties.csv`
-
-Contains fictional counterparty information.
-
-Main columns:
-
-- `counterparty`
-- `country`
-- `rating`
-- `sector`
-
-## Key SQL Skills Demonstrated
-
-- `SELECT`
-- `WHERE`
-- `ORDER BY`
-- `GROUP BY`
-- aggregate functions: `SUM`, `AVG`, `COUNT`
-- joins between trades, prices, freight and counterparties
-- monthly aggregation
-- benchmark comparison
-- freight-adjusted margin analysis
-- counterparty exposure analysis
-- window functions: `RANK`, `ROW_NUMBER`, `LAG`
-- common table expressions: `WITH`
-
-## Project Structure
-
-```text
-commodity-trading-sql-analysis/
-│
-├── data/
-│   ├── trades.csv
-│   ├── market_prices.csv
-│   ├── freight_costs.csv
-│   └── counterparties.csv
-│
-├── sql/
-│   ├── 01_create_tables.sql
-│   ├── 02_basic_queries.sql
-│   ├── 03_joins_analysis.sql
-│   ├── 04_window_functions.sql
-│   └── 05_business_questions.sql
-│
-├── outputs/
-│   └── query_results_examples.md
-│
-├── docs/
-│   └── data_dictionary.md
-│
-└── README.md
+```sql
+trades          -- trade_id, date, commodity, direction, volume, price, counterparty, status
+counterparties  -- counterparty_id, name, country, credit_limit, credit_rating
+prices          -- date, commodity, market_price, source
+settlements     -- trade_id, settlement_date, amount, currency, status
+positions       -- commodity, net_volume, avg_price, unrealised_pnl
 ```
 
-## Example Business Questions
+---
 
-This project answers questions such as:
-
-1. Which commodities have the highest traded volume?
-2. What is the average price by commodity?
-3. Which counterparties represent the largest exposure?
-4. How do trade prices compare with benchmark prices?
-5. Which routes generate the highest freight-adjusted margin?
-6. How does monthly traded volume evolve over time?
-7. Which counterparty ranks first by volume for each commodity?
-
-## Suggested Way to Use This Project
-
-You can load the CSV files into a SQL database such as PostgreSQL, SQLite, DuckDB or BigQuery.
-
-For a simple local test, DuckDB is very convenient because it can query CSV files directly.
-
-Example:
+## Sample Query
 
 ```sql
-SELECT *
-FROM read_csv_auto('data/trades.csv')
-LIMIT 5;
+-- Daily P&L by commodity: mark-to-market vs traded price
+SELECT
+    t.commodity,
+    SUM(t.volume * (p.market_price - t.price)) AS unrealised_pnl,
+    COUNT(t.trade_id)                           AS num_trades,
+    SUM(t.volume)                               AS total_volume
+FROM trades t
+JOIN prices p
+    ON t.commodity = p.commodity
+    AND p.date = CURRENT_DATE
+WHERE t.status = 'open'
+GROUP BY t.commodity
+ORDER BY unrealised_pnl DESC;
 ```
 
-## Recruiter-Relevant Summary
+---
 
-This project shows practical SQL skills applied to a commodity trading context. It demonstrates the ability to structure trading data, join multiple datasets, calculate commercial indicators and extract business insights from transactional data.
+## Repository Structure
+
+```
+commodity-trading-sql-analysis/
+│
+├── sql/
+│   ├── 01_positions.sql          ← open position queries
+│   ├── 02_pnl_analysis.sql       ← P&L attribution
+│   ├── 03_counterparty.sql       ← exposure by counterparty
+│   ├── 04_flows.sql              ← trade flow analysis
+│   └── 05_settlement.sql         ← settlement and invoicing
+│
+├── data/
+│   └── sample_trading_data.db    ← SQLite database with sample data
+│
+├── notebooks/
+│   └── sql_analysis.ipynb        ← interactive walkthrough with pandas
+│
+├── README.md
+└── requirements.txt
+```
+
+---
+
+## Quickstart
+
+```bash
+git clone https://github.com/Matt-Doy/commodity-trading-sql-analysis.git
+cd commodity-trading-sql-analysis
+
+# Run queries directly on the SQLite database
+sqlite3 data/sample_trading_data.db < sql/01_positions.sql
+
+# Or use the interactive notebook
+pip install -r requirements.txt
+jupyter notebook notebooks/sql_analysis.ipynb
+```
+
+---
+
+## Tools
+
+`SQL` `SQLite` `Python` `pandas` `Jupyter Notebook`
+
+---
+
+## Related Projects
+
+→ [brent-wti-market-analysis](https://github.com/Matt-Doy/brent-wti-market-analysis) — crude oil price dynamics  
+→ [shipping-voyage-estimate-tool](https://github.com/Matt-Doy/shipping-voyage-estimate-tool) — voyage P&L and TCE  
+→ [brazilian-soybean-export-dashboard](https://github.com/Matt-Doy/brazilian-soybean-export-dashboard) — commodity flow dashboard
+
+---
+
+## About
+
+Built by **Mattéo Doyen** — Shipping & Trading Graduate (M2, IAE Nantes, 2026).  
+[LinkedIn](https://www.linkedin.com/in/mattéo-doyen/) · [GitHub](https://github.com/Matt-Doy)
